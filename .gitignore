@@ -1,0 +1,5 @@
+*.exe
+.vscode
+
+// The program which is being debugged
+program.bf
